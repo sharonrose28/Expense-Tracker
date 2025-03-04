@@ -29,15 +29,15 @@
 
 /* Base Color Palette */
 :root {
-  --primary-color: #4E9F3D; /* Fresh Green */
-  --secondary-color: #F57C00; /* Vibrant Orange */
-  --background-color: #F4F4F4; /* Soft Gray */
+  --primary-color: #C599B6; /* Fresh Green */
+  --secondary-color: #E6B2BA; /* Vibrant Orange */
+  --background-color: #FAD0C4; /* Soft Gray */
   --text-color: #333333; /* Dark Text */
-  --border-color: #D0D0D0; /* Light Border */
-  --highlight-color: #FFEB3B; /* Bright Yellow */
+  --border-color: #FFF7F3; /* Light Border */
+  --highlight-color: #FF8383; /* Bright Yellow */
   --input-bg-color: #FFFFFF; /* White Input Background */
-  --input-border-color: #D0D0D0; /* Light Input Border */
-  --input-focus-color: #4E9F3D; /* Green Input Focus */
+  --input-border-color: #A19AD3; /* Light Input Border */
+  --input-focus-color: #A19AD3; /* Green Input Focus */
 }
 
 /* Body Styles */
