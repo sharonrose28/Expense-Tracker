@@ -36,33 +36,26 @@ After cloning the repository, navigate to the project folder and install depende
 Backend:
 Navigate to the backend folder:
 
-
-```bash
+bash
+Copy
 cd Expense-Tracker-Mern
 cd backend
-bash```
-
 Install backend dependencies:
 
-
-```bash
+bash
+Copy
 npm install
-bash```
-
 Frontend:
 Navigate to the frontend folder:
 
-```bash
+bash
+Copy
 cd ../frontend
 Install frontend dependencies:
-bash```
 
-
-```bash
+bash
+Copy
 npm install
-bash```
-
-
 3. Configure Environment Variables
 Create a .env file in the backend folder and add your MongoDB URI.
 
@@ -73,7 +66,6 @@ Example .env file:
 plaintext
 Copy
 MONGO_URI=<YOUR_MONGO_URI>
-
 4. Run the Server
 Start the Backend:
 In the backend folder, run the server with the following command:
@@ -116,5 +108,4 @@ sql
 Copy
 
 Feel free to add more details or make any further modifications if necessary!
-
 
