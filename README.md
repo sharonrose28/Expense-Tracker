@@ -26,6 +26,8 @@ First, clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/ihtasham42/Expense-Tracker-Mern.git
+bash```
+
 2. Install Dependencies
 After cloning the repository, navigate to the project folder and install dependencies for both the frontend and backend.
 
