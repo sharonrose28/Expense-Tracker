@@ -70,7 +70,7 @@ Before starting, make sure you have the following installed:
     npm install
     ```
 
-4.  Add your MongoDB connecrion string:
+4.  Add your MongoDB connection string:
 
     ```env
     MONGO_URI=your_mongodb_connection_string
