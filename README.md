@@ -1,7 +1,3 @@
-Sure! Here's a **README.md** based on your provided GitHub repository [Expense-Tracker](https://github.com/sharonrose28/Expense-Tracker/):
-
----
-
 # Expense Tracker - MERN Stack
 
 This is a simple **Expense Tracker** application built using the **MERN** stack (MongoDB, Express.js, React, Node.js). It helps users to add, track, and manage their expenses. Users can log in, view a list of their expenses, and delete them as necessary.
